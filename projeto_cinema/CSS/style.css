@@ -1,0 +1,30 @@
+* {
+    text-decoration: none;
+    font-family: Arial;
+    background-color: rgb(227, 223, 231);
+
+}
+.estreia_hoje{
+    color: darkgreen;
+}
+
+.estreia_amanhã{
+    color: darkblue;
+}
+.first {
+    color: darkred;
+    padding-left: 500px;
+    padding-top: 20px;
+}
+
+h2 > a {
+    color: royalblue !important;
+    padding-left: 550px;
+    
+}
+
+p {
+    font-size: 20px;
+}
+
+
